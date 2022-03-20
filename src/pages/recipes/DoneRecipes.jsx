@@ -21,17 +21,6 @@ function DoneRecipes() {
       doneDate: '23/06/2020',
       tags: ['Pasta', 'Curry'],
     },
-    {
-      id: '178319',
-      type: 'drink',
-      nationality: '',
-      category: 'Cocktail',
-      alcoholicOrNot: 'Alcoholic',
-      name: 'Aquamarine',
-      image: 'https://www.thecocktaildb.com/images/media/drink/zvsre31572902738.jpg',
-      doneDate: '23/06/2020',
-      tags: [],
-    },
   ];
 
   const renderFilter = doneLocal || doneRecipes;
