@@ -29,28 +29,6 @@ Colegas que contribuiram com o projeto:
 Front-end:
 > Desenvolvido usando: Kanban, React, React Hooks, React Context API, Tailwind
 
-## Layout
-
-O Layout do projeto é focado em dispositivos móveis
-
-* Tela de login </br>
-  ![Tela de login](./gifs/01-Login.gif)
-
-* Tela principal botões de categorias </br>
-  ![Botao categorias](./gifs/02-foods-drinks-foods.gif)
-
-* Tela principal botão de pesquisa (lupa) </br>
-  ![Botao lupa](./gifs/03-LupaSearch-finish-Recipe.gif)
-
-* Tela de receitas favoritas </br>
-  ![Favoritos](./gifs/04-Favorite.gif)
-
-* Tela de explorar ingredientes </br>
- ![indredientes](./gifs/05-Final.gif)
-
-* Tela de iniciar a receita </br>
-  ![inicar receita](./gifs/Checkbox2-0.gif)
-
 ## Instalando Dependências
 
 * clone o repositorio
@@ -73,10 +51,24 @@ O Layout do projeto é focado em dispositivos móveis
     npm start
   ```
 
-## Executando Testes
+## Layout
 
-* Para rodar os testes de linter:
+O Layout do projeto é focado em dispositivos móveis
 
-  ```bash
-    npm run lint
-  ```
+* Tela de login </br>
+  ![Tela de login](./gifs/01-Login.gif)
+
+* Tela principal botões de categorias </br>
+  ![Botao categorias](./gifs/02-foods-drinks-foods.gif)
+
+* Tela principal botão de pesquisa (lupa) </br>
+  ![Botao lupa](./gifs/03-LupaSearch-finish-Recipe.gif)
+
+* Tela de receitas favoritas </br>
+  ![Favoritos](./gifs/04-Favorite.gif)
+
+* Tela de explorar ingredientes </br>
+ ![indredientes](./gifs/05-Final.gif)
+
+* Tela de iniciar a receita </br>
+  ![inicar receita](./gifs/Checkbox2-0.gif)
