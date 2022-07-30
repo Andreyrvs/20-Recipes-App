@@ -1,16 +1,48 @@
-# 🚧 README em construção 🚧
+# App de Receitas
 
-<!-- Olá, Tryber!
+![Imagem da carteira](./Aplicacao.png)
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+## Contexto
 
-É essencial que você preencha esse documento por conta própria, ok?
+Este projeto trata-se de um app de receitas.Nele é possível ver, buscar, favoritar e acompanhar o progresso de receitas e drinks.
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+O Layout tem o foco dipositivos móveis
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+@GabrielzinJacques
+@TalisonSantana
+@mmdec
 
--->
+## Técnologias usadas
+
+Front-end:
+> Desenvolvido usando: React, React Hooks, React Context API, Tailwind
+
+## Instalando Dependências
+
+* clone o repositorio
+
+  ```bash
+    git clone git@github.com:Andreyrvs/recipes-app.git
+  ```
+
+* instale as dependências:
+
+  ```bash
+    npm install
+  ```
+
+## Executando aplicação
+
+* Para rodar o front-end:
+
+  ```bash
+    npm start
+  ```
+
+## Executando Testes
+
+* Para rodar os testes de linter:
+
+  ```bash
+    npm run lint
+  ```
