@@ -8,7 +8,7 @@
 
 ## Contexto
 
-Este projeto trata-se de um app de receitas.Nele é possível ver, buscar, favoritar e acompanhar o progresso de receitas e drinks.
+Este projeto trata-se de um app de receitas. Nele é possível ver, buscar, favoritar e acompanhar o progresso de receitas e drinks.
 
 Colegas que contribuiram com o projeto:
 @GabrielzinJacques
