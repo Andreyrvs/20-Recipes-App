@@ -2,7 +2,7 @@
 
 ![Imagem da carteira](./Aplicacao.png)
 
-> O grupo desenvolveu os arquivos que estão em `src/`, `gifs/`, `README.md` e imagem `Aplicacao.png` 
+> O grupo desenvolveu os arquivos que estão em `src/`, `gifs/`, `README.md` e imagem `Aplicacao.png`
 
 * Todos arquivos exeto os citados acima foram desenvolvidos pela [Trybe](https://www.betrybe.com/).
 
