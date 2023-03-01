@@ -68,3 +68,5 @@ Adquiri essas habilidades ao desenvolver esse projeto:
   ```bash
   cd src/ && npm start
   ```
+
+> A aplicação utiliza a resolução 360x640
